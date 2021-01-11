@@ -5,9 +5,7 @@ h1 {
 table {
     border-spacing: 0;
     border-collapse: collapse;
-    width: 70%;
-    margin-left: 200px;
-    margin-right: 50px;
+
 }
 table th {
     background-color:rgb(78, 156, 161) ;
