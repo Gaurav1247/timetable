@@ -36,3 +36,15 @@ table tr td {
 table tbody tr:nth-child(even) {
     background-color: rgb(220, 226, 226);
 }
+p {
+    margin-bottom: -1.2%;
+}
+a {
+    border: 2px #e5e9dc solid;
+    padding-left: 290px;
+    color: rgb(236, 136, 5);
+}
+a:hover {
+background-color: #e5e9dc;
+
+}
