@@ -2,6 +2,9 @@ h1 {
     background-color: rgb(133, 209, 166);
     text-align: center;
 }
+h2 {
+    background-color: aqua;
+}
 table {
     border-spacing: 0;
     border-collapse: collapse;
